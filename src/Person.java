@@ -3,7 +3,7 @@ class Person {
     int age;
 
     Person(){
-        fullName = "Ivan";
+        fullName = "Иван";
         age = 41;
     }
 
